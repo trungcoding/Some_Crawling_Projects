@@ -1,0 +1,608 @@
+[
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{84544AC9-691A-4188-85E2-2853B244040B}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{2F6FBCC1-3C7F-43D8-93E7-9173CCD7B77C}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{8ABA6AF8-30C9-41D9-B73E-027CF787022D}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{7E0041EA-3B84-493A-8B47-8380438A5BCA}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{D9DC6EFB-1B1F-450B-937F-56BDEECD16EC}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{6725C284-2846-4482-9F03-CB378D038A14}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{38705A5C-02B6-46FB-A2B2-55AF4BE612C2}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{353B0B3A-92D5-4A4F-8FD0-87E33F0281D8}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{107FA6A3-6A62-4A17-8A1D-CCD3316549AE}",
+        "data": {
+            "filterResults": [
+                {
+                    "districtGroup": "Q.1",
+                    "sortTitle": "1",
+                    "branches": [
+                        {
+                            "id": "{CFCDF80A-6ECA-483B-B4DD-147139CE2941}",
+                            "title": "Trụ sở chi nhánh Vietcombank thành phố Hồ Chí Minh",
+                            "branch_name": "Hồ Chí Minh - Trụ sở chi nhánh Vietcombank thành phố Hồ Chí Minh",
+                            "chip_type": "Diem ban vang",
+                            "phone": "",
+                            "leader": "",
+                            "services_hour": "",
+                            "address": "Số 5 Công trường Mê Linh, phường Bến Nghé, quận 1, thành phố Hồ Chí Minh",
+                            "longitude": "106.705717",
+                            "latitude": "10.775592",
+                            "distance": null
+                        }
+                    ]
+                },
+                {
+                    "districtGroup": "Q.3",
+                    "sortTitle": "3",
+                    "branches": [
+                        {
+                            "id": "{DDA95CC2-8B8B-4AF6-99AE-C5195742765A}",
+                            "title": "Trụ sở chi nhánh Vietcombank Kỳ Đồng",
+                            "branch_name": "Kỳ Đồng - Trụ sở chi nhánh Vietcombank Kỳ Đồng",
+                            "chip_type": "Diem ban vang",
+                            "phone": "",
+                            "leader": "",
+                            "services_hour": "",
+                            "address": "Số 13-13 Bis Kỳ Đồng, phường 9, quận 3, thành phố Hồ Chí Minh",
+                            "longitude": "106.682865",
+                            "latitude": "10.78341",
+                            "distance": null
+                        }
+                    ]
+                },
+                {
+                    "districtGroup": "Q.7",
+                    "sortTitle": "7",
+                    "branches": [
+                        {
+                            "id": "{6656D426-AA6B-4193-9F07-0EE1B6D77B64}",
+                            "title": "Trụ sở chi nhánh Vietcombank Nam Sài Gòn",
+                            "branch_name": "Nam Sài Gòn - Trụ sở chi nhánh Vietcombank Nam Sài Gòn",
+                            "chip_type": "Diem ban vang",
+                            "phone": "",
+                            "leader": "",
+                            "services_hour": "",
+                            "address": "Số 23 Nguyễn Hữu Thọ, phường Tân Hưng, quận 7, thành phố Hồ Chí Minh",
+                            "longitude": "106.70044241106",
+                            "latitude": "10.7391123886644",
+                            "distance": null
+                        }
+                    ]
+                },
+                {
+                    "districtGroup": "Q.Tân Phú",
+                    "sortTitle": "tân phú",
+                    "branches": [
+                        {
+                            "id": "{AB286BAD-9267-485C-BA91-E287C83127C9}",
+                            "title": "Trụ sở chi nhánh Vietcombank Tân Bình",
+                            "branch_name": "Tân Bình - Trụ sở chi nhánh Vietcombank Tân Bình",
+                            "chip_type": "Diem ban vang",
+                            "phone": "",
+                            "leader": "",
+                            "services_hour": "",
+                            "address": "Số 108 Tây Thạnh, phường Tây Thạnh. quận Tân Phú, thành phố Hồ Chí Minh",
+                            "longitude": "106.623926",
+                            "latitude": "10.815181",
+                            "distance": null
+                        }
+                    ]
+                },
+                {
+                    "districtGroup": "Thành phố Thủ Đức",
+                    "sortTitle": "thành phố thủ đức",
+                    "branches": [
+                        {
+                            "id": "{4747F9FD-51EF-40C2-B22E-03FF99AA1A06}",
+                            "title": "Trụ sở chi nhánh Vietcombank Thủ Đức",
+                            "branch_name": "Thủ Đức - Trụ sở chi nhánh Vietcombank Thủ Đức",
+                            "chip_type": "Diem ban vang",
+                            "phone": "",
+                            "leader": "",
+                            "services_hour": "",
+                            "address": "Số 50A Đặng Văn Bi, phường Bình Thọ, thành phố Thủ Đức",
+                            "longitude": "106.761724",
+                            "latitude": "10.841874",
+                            "distance": null
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{F37472FC-4364-40F5-A3ED-8A47E9C90648}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{9435E743-07AF-47D7-9247-D9CA3F5BBBE0}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{0DC08111-6F91-4CEF-A254-0A6BD06AB9AC}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{A6E6DD3A-C936-4E9F-87F5-C7B3471235F0}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{E573C3B1-EB18-4227-8396-5F26CA7B4EC3}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{D785B1D4-FE35-432B-ACC1-9F651C3CD804}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{6423A95E-E929-451E-B8F3-BD6BC97E8800}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{E6F11701-FFA3-48C5-A583-BD8B297309EC}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{40DE5CC6-44B5-4B49-A150-9D7EAA999903}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{A133185B-DDBF-46E7-A26E-653A08340F36}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{AE02FE7A-0AD4-4DF5-9833-2231182142CD}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{78D9BD6A-D164-48A9-AEDD-12F22DEC1DE6}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{1475EA8D-A1F3-45CD-9119-40B2855C4841}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{D5769371-2375-477E-B996-604243DD05E1}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{EF668666-62B6-4E59-95B8-7E4CC62905CF}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{E9CD8DAD-231A-4C14-904D-FF9E4A628332}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{5C6AEE0D-3B84-4B78-A060-D500F4F889A1}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{C0F66B4B-9CFB-4DF2-9CC1-A5C71BD3A96F}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{9FDFBAE1-B6C5-4BFF-AF7E-D5376250233C}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{101DE432-4D6E-4153-9200-8094545ADC63}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{D4F908D1-D127-4D33-9C4E-44B750559E98}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{23CA9547-B4E8-4666-B05D-53F2A85420C4}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{0C3430F0-25D5-4A0E-8EF2-DA4639C9EC11}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{2A254083-4E39-49CC-B5FE-EE77C5D86A68}",
+        "data": {
+            "filterResults": [
+                {
+                    "districtGroup": "Q.Ba Đình",
+                    "sortTitle": "ba đình",
+                    "branches": [
+                        {
+                            "id": "{AFE5F377-CAD0-48BE-9FA6-E7E83D47F4CD}",
+                            "title": "Trụ sở chi nhánh Vietcombank Sở Giao dịch",
+                            "branch_name": "Sở Giao dịch - Trụ sở chi nhánh Vietcombank Sở Giao dịch",
+                            "chip_type": "Diem ban vang",
+                            "phone": "",
+                            "leader": "",
+                            "services_hour": "",
+                            "address": "Số 11 Láng Hạ, phường Thành Công, quận Ba Đình, thành phố Hà Nội",
+                            "longitude": "105.818422",
+                            "latitude": "21.021441",
+                            "distance": null
+                        }
+                    ]
+                },
+                {
+                    "districtGroup": "Q.Đống Đa",
+                    "sortTitle": "đống đa",
+                    "branches": [
+                        {
+                            "id": "{7BC4C3B8-F88C-44A3-B500-D438BD400CD4}",
+                            "title": "Trụ sở chi nhánh Vietcombank Hà Nội",
+                            "branch_name": "Hà Nội - Trụ sở chi nhánh Vietcombank Hà Nội",
+                            "chip_type": "Diem ban vang",
+                            "phone": "",
+                            "leader": "",
+                            "services_hour": "",
+                            "address": "Số 11B Cát Linh, phường Quốc Tử Giám, quận Đống Đa, thành phố Hà Nội",
+                            "longitude": "105.8172884",
+                            "latitude": "20.9990168",
+                            "distance": null
+                        },
+                        {
+                            "id": "{299913D8-F535-47D4-99D9-B00A5A53E537}",
+                            "title": "Trụ sở chi nhánh Vietcombank Thành Công",
+                            "branch_name": "Thành Công - Trụ sở chi nhánh Vietcombank Thành Công",
+                            "chip_type": "Diem ban vang",
+                            "phone": "",
+                            "leader": "",
+                            "services_hour": "",
+                            "address": "Số 01 Thái Hà, phường Trung Liệt, quận Đống Đa, thành phố Hà Nội",
+                            "longitude": "105.8238222",
+                            "latitude": "21.0095866",
+                            "distance": null
+                        }
+                    ]
+                },
+                {
+                    "districtGroup": "Q.Hoàn Kiếm",
+                    "sortTitle": "hoàn kiếm",
+                    "branches": [
+                        {
+                            "id": "{449C3477-087D-4787-8259-8864D50E7FD3}",
+                            "title": "Trụ sở chi nhánh Vietcombank Ba Đình",
+                            "branch_name": "Ba Đình - Trụ sở chi nhánh Vietcombank Ba Đình",
+                            "chip_type": "Diem ban vang",
+                            "phone": "",
+                            "leader": "",
+                            "services_hour": "",
+                            "address": "Số 72 Trần Hưng Đạo, quận Hoàn Kiếm, thành phố Hà Nội",
+                            "longitude": "105.845034",
+                            "latitude": "21.022759",
+                            "distance": null
+                        }
+                    ]
+                },
+                {
+                    "districtGroup": "Q.Long Biên",
+                    "sortTitle": "long biên",
+                    "branches": [
+                        {
+                            "id": "{552FD21A-E720-4BB1-9B84-C2FF1866E635}",
+                            "title": "Trụ sở chi nhánh Vietcombank Chương Dương",
+                            "branch_name": "Chương Dương - Trụ sở chi nhánh Vietcombank Chương Dương",
+                            "chip_type": "Diem ban vang",
+                            "phone": "",
+                            "leader": "",
+                            "services_hour": "",
+                            "address": "Số 564 Nguyễn Văn Cừ, phường Gia Thụy, quận Long Biên, thành phố Hà Nội",
+                            "longitude": "105.8849506",
+                            "latitude": "21.0504862",
+                            "distance": null
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{39DEE31B-87C9-4658-8521-82EF589E91E2}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{87146F5B-CE57-459A-A2F7-8A3B352C17A2}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{E11AF763-85C5-45C9-A5EF-CB8482A8D63A}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{EB8403D6-B220-4B2B-AEDB-4BB65DFB84E9}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{1982AE63-B6D1-41E5-9E24-2C974E840060}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{20D81E57-1F71-497B-A11C-9BB88D6A02AE}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{E677D03A-0250-4E2F-A032-D886290E01F7}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{363CB6F5-2FB1-4B90-A2C8-044B5ACA64DF}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{B27697C3-F7CA-44C4-999B-8BD2DC93D28D}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{ED9B5A17-04F1-4E09-AC28-6E8F8DB58594}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{9D7FC3EE-ADA1-4016-9A1B-529067FF732C}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{CF230736-8185-4A2F-B936-95E9D9B29516}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{4EC90C78-ADA8-4F4A-924F-4CE10970F6BA}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{826B1AC7-3A6F-4A40-8981-969163B7D806}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{1F17DA9D-E771-47C8-937E-B8784B5B74CE}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{38A0461B-1C62-4490-9413-D63EA589CD5B}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{A02C60C1-066D-44CE-AD89-8DBC7BF7EC79}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{6953CD50-5C92-4382-AC26-824079A38529}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{33485435-F869-431D-B6F6-5C60173F5D4B}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{B6EC09DA-19DB-4DF0-AD0E-17D028A32786}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{93702453-A85D-43E9-9D90-841BBD1B2B2A}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{863EC70C-5E83-4B12-BF17-9BD2EB54464A}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{6ECE54DB-7C45-470B-87F2-E813D0CA8346}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{BD687E39-5BAF-4EE6-B0CC-769BC47C8023}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{2E2B43C5-08BD-4E40-824E-3CD1D950B0C3}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{F6A6CA20-685E-48FA-BA88-244891A8B78D}",
+        "data": {
+            "filterResults": []
+        }
+    },
+    {
+        "Chip": "{C6C2234D-4450-4D37-9F4A-465AC9666A08}",
+        "ProvinceCode": "{DD848E2F-06F5-4822-88B3-578C860CE917}",
+        "data": {
+            "filterResults": []
+        }
+    }
+]

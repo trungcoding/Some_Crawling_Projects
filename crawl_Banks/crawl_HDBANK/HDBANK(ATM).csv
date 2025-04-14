@@ -1,0 +1,415 @@
+﻿Name,Address,Latitude,Longitude
+ATM CN Hòa Bình,"589 Cù Chính Lan, phường Phương Lâm, thành phố Hòa Bình, tỉnh Hòa Bình",20.818768,105.33905
+ATM PGD Hóc Môn,"98/3 Bà Triệu, Thị trấn Hóc Môn, Huyện Hóc Môn, Thành Phố Hồ Chí Minh",10.886891,106.59624
+ATM PGD Linh Đông,"226 Tô Ngọc Vân, Phường Linh Đông, Thành phố Thủ Đức, Thành Phố Hồ Chí Minh, Việt Nam",10.857462,106.74734
+ATM PGD Dĩ An,"90 đường Dĩ An-Truông Tre, Khu Phố Bình Minh 2, Phường Dĩ An, Thành phố Dĩ An, Tỉnh Bình Dương, Việt Nam",10.895549,106.76107
+ATM CN Nha Trang,"Tòa nhà Ariyana Smart Codotel, Số 18 Trần Hưng Đạo, Phường Lộc Thọ,Thành Phố Nha Trang, Tỉnh Khánh Hòa, Việt Nam",12.244265,109.194595
+ATM CN Sài Gòn,"22-24-26 Pasteur, Phường Nguyễn Thái Bình, Quận 1, Thành Phố Hồ Chí Minh, Việt Nam",10.770164,106.70065
+ATM Bệnh Viện Bưu Điện,"Lô B9 Thành Thái, Phường 15, Quận 10, Thành Phố Hồ Chí Minh, Việt Nam",10.780304,106.660385
+ATM CN An Giang,"217 Lý Thái Tổ, Tổ 5, Khóm 7, Phường Mỹ Long, Thành Phố Long Xuyên, Tỉnh An Giang, Việt Nam",10.377935,105.44228
+ATM CN Nghệ An,"39 Lê Hồng Phong, Phường Hưng Bình, Thành Phố Vinh, Tỉnh Nghệ An, Việt Nam",18.676464,105.67861
+ATM CN Vũng Tàu,"63 Lê Hồng Phong, phường 7, Thành phố Vũng Tàu, tỉnh Bà Rịa - Vũng Tàu, Việt Nam",10.356322,107.08321
+ATM PGD Nam Kỳ Khởi Nghĩa,"215 Nam Kỳ Khởi Nghĩa, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",10.787988,106.68543
+ATM PGD NGUYỄN SƠN,"238 Nguyễn Sơn, Phường Phú Thọ Hòa, Quận Tân Phú, Thành Phố Hồ Chí Minh, Việt Nam",10.782928,106.62462
+ATM PGD Hòa Hưng,"459 Sư Vạn Hạnh, Phường 12, Quận 10, Thành Phố Hồ Chí Minh, Việt Nam",10.773626,106.66705
+ATM PGD Trần Hưng Đạo,"Nhà A-03, 83 Hào Nam, Phường Ô Chợ Dừa, Huyện Đống Đa, Thành phố Hà Nội, Việt Nam",21.024023,105.82669
+ATM PGD Đông Sài Gòn,"280 Trần Não, Phường An Khánh, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",10.796132,106.73413
+ATM PGD Hoàng Văn Thái,"142 Hoàng Văn Thái, Phường Khương Mai, Quận Thanh Xuân, Thành Phố Hà Nội, Việt Nam",20.996897,105.822845
+ATM PGD Tây Hồ,"22 Xuân La, Quận Tây Hồ, Thành Phố Hà Nội, Việt Nam",21.062447,105.80574
+ATM PGD Âu Cơ,"516 Âu Cơ, Phường 10, Quận Tân Bình, Thành Phố Hồ Chí Minh, Việt Nam",10.780189,106.64209
+ATM PGD Thủ Đô,"Số 690 đường Lạc Long Quân, Phường Nhật Tân, Quận Tây Hồ, Thành Phố Hà Nội, Việt Nam",21.0794,105.81648
+ATM Hội Sở,"25 Bis Nguyễn Thị Minh Khai, Quận 1, Thành Phố Hồ Chí Minh, Việt Nam",10.779295,106.685234
+ATM CTY LELON 04,"cụm công nghiệp Đức Mỹ, xã Đức Hòa Đông, Huyện Đức Hòa, Tỉnh Long An, Việt Nam",10.803577,106.4941
+ATM CTY LELON 05,"cụm công nghiệp Đức Mỹ, xã Đức Hòa Đông, Huyện Đức Hòa, Tỉnh Long An, Việt Nam",10.803577,106.4941
+ATM  CTY LELON 01,"40 Bà Chánh Thâu, Khu Phố 2, Thị trấn Bến Lức, Huyện Bến Lức, Tỉnh Long An, Việt Nam",10.645793,106.48187
+ATM CTY CHINGLUH 01,"Khu công nghiệp Thuận Đạo, Thị trấn Bến Lức, Tỉnh Long An, Việt Nam",10.623041,106.48951
+ATM CTY CHINGLUH 02,"Khu công nghiệp Thuận Đạo, Thị trấn Bến Lức, Tỉnh Long An, Việt Nam",10.623041,106.48951
+ATM CTY CHINGLUH 03,"Khu công nghiệp Thuận Đạo, Thị trấn Bến Lức, Tỉnh Long An, Việt Nam",10.623041,106.48951
+ATM CTY CHINGLUH 04,"Khu công nghiệp Thuận Đạo, Thị trấn Bến Lức, Tỉnh Long An, Việt Nam",10.623041,106.48951
+ATM CTY CHINGLUH 05,"Khu công nghiệp Thuận Đạo, Thị trấn Bến Lức, Tỉnh Long An, Việt Nam",10.623041,106.48951
+ATM CTY CHINGLUH 06,"Khu công nghiệp Thuận Đạo, Thị trấn Bến Lức, Tỉnh Long An, Việt Nam",10.623041,106.48951
+ATM CN Phú Nhuận,"174 Phan Đăng Lưu, Phường 3, Quận Phú Nhuận, Thành Phố Hồ Chí Minh, Việt Nam",10.800754,106.681694
+ATM CN Lãnh Binh Thăng,"449-451 Lý Thường Kiệt, phường 8, Quận Tân Bình, Thành Phố Hồ Chí Minh, Việt Nam",10.785104,106.65396
+ATM CN Nguyễn Trãi,"207-209 Nguyễn Trãi, Phường 2, Quận 5, Thành Phố Hồ Chí Minh, Việt Nam",10.756722,106.67749
+ATM CN Vạn Hạnh,"374-374B Võ Văn Tần, Phường 5, Quận 3, Thành Phố Hồ Chí Minh, Việt Nam",10.770613,106.6845
+ATM CN Cộng Hòa,"Tòa nhà REPUBLIC PLAZA - 18E Cộng Hoà, Phường 04, Quận Tân Bình, Thành Phố Hồ Chí Minh, Việt Nam",10.801849,106.654976
+ATM CN Cần Thơ,"100 Đường Mậu Thân, phường An Hòa, quận Ninh Kiều, thành phố Cần Thơ, Việt Nam",10.040472,105.768776
+ATM Đại Học Cần Thơ,"Khu II Trường DH Cần Thơ, Đường 3/2, Phường Xuân Khánh, Quận Ninh Kiều, Thành phố Cần Thơ, Việt Nam",10.028511,105.76269
+ATM PGD TP Thủ Đức,"199 Lê Văn Việt, Phường Hiệp Phú, Thành phố Thủ Đức, Thành Phố Hồ Chí Minh, Việt Nam",10.844072,106.78243
+ATM CTY FULUH 04,"Xã Tân Kim, Huyện Cần Giuộc, Tỉnh Long An, Việt Nam",10.635569,106.71882
+ATM CTY FULUH 05,"Xã Tân Kim, Huyện Cần Giuộc, Tỉnh Long An, Việt Nam",10.635569,106.71882
+ATM CTY FULUH 06,"Xã Tân Kim, Huyện Cần Giuộc, Tỉnh Long An, Việt Nam",10.635569,106.71882
+ATM PGD NGÔ QUYỀN,"Số 376 Tô Hiệu, Phường Hồ Nam, Quận Lê Chân, Thành Phố Hải Phòng, Việt Nam",20.84994,106.67349
+ATM CN Hà Nội,"2C, khu Đoàn Ngoại giao Vạn Phúc, Phường Ngọc Khánh, Quận Ba Đình, Thành Phố Hà Nội, Việt Nam",21.031042,105.81787
+ATM CN Bình Dương,"558 Đại Lộ Bình Dương, Phường Hiệp Thành, Thành phố Thủ Dầu Một, Tỉnh Bình Dương, Việt Nam",10.992393,106.65903
+ATM CN TP.HCM,"Tòa nhà K&K, 159 A-B Lê Đại Hành, Phường 13, Quận 11, Thành Phố Hồ Chí Minh, Việt Nam",10.762784,106.65652
+ATM CN Ba Đình,"Tòa nhà Icon4, 243A, Đê La Thành, Phường Láng Thượng, Quận Đống Đa, Thành Phố Hà Nội, Việt Nam",21.027958,105.80233
+ATM PGD Nguyễn Oanh,"255a26 Khu dân cư CITYLAND PARK HILLS Nguyễn Văn Lượng, phường 10, quận Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam",10.838501,106.67569
+ATM PGD Bình Thạnh,"132-134 Nguyễn Gia Trí, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",10.801458,106.715294
+ATM PGD Đầm Sen,"173 Hoà Bình, Phường Hiệp Tân, Quận Tân Phú, Thành Phố Hồ Chí Minh, Việt Nam",10.77088,106.62721
+ATM CN Long An 1,"112-114-116 Nguyễn Văn Tiếp, khu phố 3, thị trấn Bến Lức, huyện Bến Lức, tỉnh Long An, Việt Nam",10.639959,106.492584
+ATM CN Hoàn Kiếm 01,"32 Trần Hưng Đạo, Phường Phan Chu Trinh, Quận Hoàn Kiếm, Thành Phố Hà Nội, Việt Nam",21.020592,105.85228
+ATM CN Hoàn Kiếm 02,"32 Trần Hưng Đạo, Phường Phan Chu Trinh, Quận Hoàn Kiếm, Thành Phố Hà Nội, Việt Nam",21.020592,105.85228
+ATM PGD Ngô Gia Tự,"372-374 Ngô Gia Tự, phường 3, Quận 10, Thành phố Hồ Chí Minh, Việt Nam",10.7621155,106.67016
+ATM CN Đà Nẵng,"191 Lê Lợi, phường Hải Châu 1, Quận Hải Châu, thành phố Đà Nẵng, Việt Nam",16.068464,108.213486
+ATM FURAMA,"103-105, Võ Nguyên Giáp, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng, Việt Nam",16.038122,108.248215
+ATM PGD Lạc Long Quân,"593 Bình Thới, Phường 10, Quận 11, Thành Phố Hồ Chí Minh, Việt Nam",10.762844,106.6408
+ATM PGD Phú Mỹ Hưng,"1485 Nguyễn Văn Linh, Khu Phố Mỹ Toàn 1, Phường Tân Phong, Quận 7, Thành Phố Hồ Chí Minh, Việt Nam",10.728284,106.70206
+ATM PGD Duy Tân,"69 Phạm Ngọc Thạch, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",10.786451,106.691414
+ATM PGD Ninh Kiều,"81A -81B – 83 Đường Nguyễn Trãi, Phường Tân An, Quận Ninh Kiều, Thành Phố Cần Thơ",10.04049,105.784996
+ATM PGD Trung Hòa,"80 Trung Kính, Phường Yên  Hoà, Quận Cầu Giấy, Thành Phố Hà Nội, Việt Nam",21.015574,105.79268
+ATM PGD Bến Cát,"Lô C, Ô số 1, KDC Mỹ Phước 4 - Khu A, phường Mỹ Phước, thị xã Bến Cát, tỉnh Bình Dương, Việt Nam",11.148853,106.61145
+ATM HAKSAN,"Ấp 3, Xã Tân Định, Thị xã Bến Cát, Tỉnh Bình Dương, Việt Nam",11.06173,106.61213
+ATM PGD Hải Châu,"Lô 500A Điện Biên Phủ,Phường Hoà Khê, Quận Thanh Khê, Thành Phố Đà Nẵng, Việt Nam",16.067574,108.18418
+ATM PGD Nguyễn Duy Trinh,"201 Nguyễn Duy Trinh, Phường Bình Trưng Tây, Thành phố Thủ Đức, Thành Phố Hồ Chí Minh, Việt Nam",10.788371,106.76344
+ATM PGD Long Hậu,"MB101 Trung tâm dịch vụ khu công nghiệp Long Hậu, Xã Long Hậu, Huyện Cần Giuộc, Tỉnh Long An, Việt Nam",10.638036,106.713356
+ATM CN Đồng Nai,"208D Phạm Văn Thuận, Phường Thống Nhất, Thành Phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam",10.958167,106.839714
+ATM CTY Nghị Phong 1,"KCN Trần Quốc Toản, phường 11, TP. Cao Lãnh, Tỉnh Đồng Tháp, Việt Nam",10.50314,105.568634
+ATM CTY Tiến Đạt,"Quốc lộ 1A, Khu vực 7, Phường Bùi Thị Xuân, Thành phố Quy Nhơn, Tỉnh Bình Định, Việt Nam",13.817562,109.18019
+ATM Bà Triệu,"298 Bà Triệu, Phường Vĩnh Trại, Thành phố Lạng Sơn, Tỉnh Lạng Sơn, Việt Nam",21.854918,106.76152
+ATM PGD Đức Trọng,"546 Quốc lộ 20, tổ dân Phố 19, thị trấn Liên Nghĩa, Huyện Đức Trọng, Tỉnh Lâm Đồng, Việt Nam",11.728433,108.37057
+ATM CN Thái Nguyên,"Đường Bắc Sơn, KDC số 01, Phường Hoàng Văn Thụ, Thành Phố Thái Nguyên, Tỉnh Thái Nguyên, Việt Nam",21.594887,105.82854
+ATM PGD TRẢNG BÀNG,"22 Quốc lộ 22, tổ 1, Khu Phố Gia Huỳnh, Phường Trảng Bàng, Thị xã Trảng Bàng , Tỉnh Tây Ninh, Việt Nam",11.031954,106.36263
+ATM PGD Hương Sơn,"56 Nguyễn Tuấn Thiện, khu phố 1, thị trấn Phố Châu, Huyện Hương Sơn, Tỉnh Hà Tĩnh, Việt Nam",18.5111,105.423515
+ATM PGD Xa Mát,"12 Nguyễn Văn Linh,  khu phố 2, Thị trấn Tân Biên, Huyện Tân Biên, Tỉnh Tây Ninh, Việt Nam",11.542656,106.00512
+ATM CN Vĩnh Phúc,"Số 3 đường Mê Linh, Phường Liên Bảo, Thành Phố Vĩnh Yên, Tỉnh Vĩnh Phúc, Việt Nam",21.313557,105.59832
+ATM CN Hưng Yên,"Số 129 Hải Thượng Lãn Ông, phường Hiến Nam, Thành Phố Hưng Yên, Tỉnh Hưng Yên, Việt Nam",20.746454,106.09917
+ATM CN Phú Thọ,"Số 2191 đường Hùng Vương, phường Gia Cẩm, thành phố Việt Trì, tỉnh Phú Thọ",21.323349,105.38382
+ATM CN Bạc Liêu,"Số 206-208 đường Trần Phú, phường 7, TP. Bạc Liêu, tỉnh Bạc Liêu",9.303747,105.7213
+ATM CN Sơn La,"457A Chu Văn Thịnh, thành phố Sơn La, tỉnh Sơn La, Việt Nam",21.33928,103.90973
+ATM CN Ninh Thuận,"207B Ngô Gia Tự, phường Thanh Sơn, TP Phan Rang Tháp Chàm, tỉnh Ninh Thuận, Việt Nam",11.569214,108.994865
+ATM CN Hà Nam,"Số PG1-08A VinCom, đường Biên Hòa, Tổ 5, Phường Minh Khai, thành phố Phủ Lý, tỉnh Hà Nam",20.543644,105.91744
+ATM CTY CHINGLUH 07,"Khu công nghiệp Thuận Đạo, Thị trấn Bến Lức, Tỉnh Long An, Việt Nam",10.623041,106.48951
+ATM CTY CHINGLUH 08,"Khu công nghiệp Thuận Đạo, Thị trấn Bến Lức, Tỉnh Long An, Việt Nam",10.623041,106.48951
+ATM CTY CHINGLUH 09,"Khu công nghiệp Thuận Đạo, Thị trấn Bến Lức, Tỉnh Long An, Việt Nam",10.623041,106.48951
+ATM CTY KUNGTAY,"Cụm công nghiệp Đức Mỹ, Xã Đức Hòa Đông, Huyện Đức Hòa, Tỉnh Long An, Việt Nam",10.803577,106.4941
+ATM PGD Huỳnh Tấn Phát,"705 Huỳnh Tấn Phát, P. Phú Thuận, Quận 7, Thành Phố Hồ Chí Minh, Việt Nam",10.736632,106.73065
+ATM PGD Thái Sơn,"222 Nguyễn Thái Sơn, Phường 4, Quận Gò Vấp, Thành Phố Hồ Chí Minh, Việt Nam",10.820153,106.683205
+ATM PGD Lê Văn Sỹ,"185 B-C Đường Lê Văn Sỹ, phường 13, quận Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",10.792503,106.67026
+ATM PGD KCN AMATA,"50-52 Ðồng Khởi, KP.4, P. Tân Hiệp, Thành Phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam",10.952693,106.870316
+ATM PGD Lê Quang Định,"472 Đường Lê Quang Định, Phường 11, Quận Bình Thạnh, Thành Phố Hồ Chí Minh, Việt Nam",10.813779,106.68986
+ATM PGD Minh Phụng,"169-171 Minh Phụng, Phường 9, Quận 6, Thành Phố Hồ Chí Minh, Việt Nam",10.752737,106.64279
+ATM PGD Phước Long,"274 - 276 Đỗ Xuân Hợp, Phường Phước Long A, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",10.812617,106.77573
+ATM PGD Thanh Bình,"L1-3, L1-4 KDC Phú Gia, đường Nguyễn Khuyến,  Khu phố 5, Phường Trảng Dài, Thành Phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam",10.949201,106.82048
+ATM PGD Khánh Hội,"173 Đường Khánh Hội, phường 3, Quận 4, Thành Phố Hồ Chí Minh, Việt Nam",10.757228,106.70019
+ATM PGD Nguyễn Văn Quá,"Số 410A đường Nguyễn Văn Quá, phường Đông Hưng Thuận, quận 12, TP.HCM",10.837358,106.629364
+ATM PGD Lê Trọng Tấn,"445-445A Lê Trọng Tấn, P. Sơn Kỳ, Quận Tân Phú, Thành Phố Hồ Chí Minh, Việt Nam",10.807507,106.6225
+ATM PGD Nam Sài Gòn,"930a-930b Tạ Quang Bửu, Phường 5, Quận 8, Thành phố Hồ Chí Minh, Việt Nam",10.734136,106.654945
+ATM PGD Nguyễn Ảnh Thủ,"2C Nguyễn Ảnh Thủ, Phường Trung Mỹ Tây, Quận 12, Thành Phố Hồ Chí Minh, Việt Nam",10.856638,106.60818
+ATM PGD Nguyễn Văn Cừ,"118-120, Đường Nguyễn Văn Cừ, Phường Nguyễn Cư Trinh, Quận 1, Thành Phố Hồ Chí Minh, Việt Nam",10.758597,106.68449
+ATM PGD Phước Tĩnh,"10 Tổ 2, Ấp Phước Lâm, Xã Phước Hưng, Huyện Long Điền, Tỉnh Bà Rịa Vũng Tàu, Việt Nam",10.410483,107.19522
+ATM PGD Thảo Điền,"1 Đường số 49B, Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",10.802156,106.72821
+ATM CTY FULUH (3/3),"Xã Tân Kim, Huyện Cần Giuộc, Tỉnh Long An, Việt Nam",10.614233,106.66255
+ATM PGD Bà Rịa,"267 Cách Mạng Tháng 8, Phường Phước Hưng, Thành phố Bà Rịa, Tỉnh Bà Rịa Vũng Tàu, Việt Nam",10.495198,107.17262
+ATM PGD Tân Biên,"388, Khu Phố 9, Đường Nguyễn Ái Quốc, Phường Hố Nai, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam",10.9726,106.8835
+ATM PGD Nam Đô,"46 Phố Vọng, Phường Đồng Tâm, Quận Hai Bà Trưng, Thành Phố Hà Nội, Việt Nam",20.999266,105.842026
+ATM PGD Chợ Mới,"22 Đường 23/10, Phường Phương Sơn, Thành phố Nha Trang, Tỉnh Khánh Hòa, Việt Nam",12.250262,109.179726
+ATM VIMARU,"Trường Đại học Hàng Hải, 484 Lạch Tray, Phường Đổng Quốc Bình, Quận Ngô Quyền, Thành Phố Hải Phòng, Việt Nam",20.849947,106.6735
+ATM CN Hải Phòng,"116 Nguyễn Đức Cảnh, Phường Cát Dài, Quận Lê Chân, Thành Phố Hải Phòng, Việt Nam",20.849754,106.67363
+ATM KCN TRÀNG DUỆ,"km 35, Quốc lộ 10, Xã Quốc Tuấn, Huyện An Lão, Thành Phố Hải Phòng, Việt Nam",20.82129,106.54235
+ATM CN Hải Dương,"360 Nguyễn Lương Bằng, Phường Thanh Bình, Thành Phố Hải Dương, Tỉnh Hải Dương, Việt Nam",20.937284,106.303635
+ATM PGD Thành Công,"101 và 201, C18 Nguyên Hồng, phường Láng Hạ, quận Đống Đa, Thành Phố Hà Nội, Việt Nam",21.016369,105.810684
+ATM PGD Châu Đức,"307 Hùng Vương, Khu Phố 2, Thị Trấn Ngãi Giao, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",10.647718,107.24373
+ATM PGD Tây Hà Nội,"138 Hoàng Quốc Việt, Phường Nghĩa Tân, Quận Cầu Giấy, thành phố Hà Nội, Việt Nam",21.046244,105.79096
+ATM PGD Quán Hành,"Tòa nhà công ty cổ phần thương mại Bảo Hưng - Khối 4, Thị Trấn Quán Hành, Huyện Nghi Lộc, Tỉnh Nghệ An, Việt Nam",18.779125,105.64594
+ATM CN Đắk Lắk,"10 Đường Trần Hưng Đạo, phường Thắng Lợi, Thành phố Buôn Ma Thuột, tỉnh Đắk Lắk, Việt Nam",12.684907,108.04947
+ATM CN Bắc Ninh,"Tòa nhà Viglacera, số 15 Lý Thái Tổ, Thành Phố Bắc Ninh, Tỉnh Bắc Ninh, Việt Nam",21.177471,106.07084
+ATM PGD Trung Yên,"17 LÔ A4, KĐT Trung Yên, Trung Hòa, Phường Trung Hòa, Quận Cầu Giấy, Thành Phố Hà Nội, Việt Nam",21.01496,105.80109
+ATM PGD Thượng Đình,"Tòa nhà Nam Anh - 68 ngõ 116 Nhân Hòa, Phường Nhân Chính, Quận Thanh Xuân, Thành Phố Hà Nội, Việt Nam",21.0041,105.80715
+ATM CN Lào Cai,"143 Hoàng Liên, Cốc Lếu, Thành phố Lào Cai, Tỉnh Lào Cai, Việt Nam",22.49011,103.96918
+ATM CN Tây Ninh,"Số 440 đường 30/4, Khu Phố 1, Phường 3, Thành Phố Tây Ninh, Tỉnh Tây Ninh, Việt Nam",11.319149,106.09942
+ATM CN Cà Mau,"138A - 138B Ngô Quyền, Phường 9, Thành phố Cà Mau, Tỉnh Cà Mau, Việt Nam",9.183104,105.1414
+ATM PGD Từ Liêm,"Tổ dân phố số 8 Tu Hoàng, Phường Phương Canh, Quận Nam Từ Liêm, Thành Phố Hà Nội, Việt Nam",21.049013,105.729485
+ATM PGD CƯ KUIN,"Thôn 2, Xã Ea Ktur, Huyện Cư Kuin, Tỉnh Đắk Lắk, Việt Nam",12.603142,108.136444
+ATM CN Hà Tĩnh,"70 Phan Đình Phùng, phường Nam Hà, Thành phố Hà Tĩnh, tỉnh Hà Tĩnh, Việt Nam",18.339155,105.901306
+ATM POUCHEN 01,"Nguyễn Ái Quốc, Xã Hoà An, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam",10.972581,106.88351
+ATM POUCHEN 02,"Nguyễn Ái Quốc, Xã Hoà An, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam",10.972581,106.88351
+ATM POUCHEN 03,"Nguyễn Ái Quốc, Xã Hoà An, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam",10.934168,106.80613
+ATM POUCHEN 04,"Nguyễn Ái Quốc, Xã Hoà An, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam",10.935182,106.80916
+ATM POUCHEN 05,"Nguyễn Ái Quốc, Xã Hoà An, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam",10.934168,106.80613
+ATM POUCHEN 06,"Nguyễn Ái Quốc, Xã Hoà An, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam",10.935182,106.80916
+ATM CN SGD Đồng Nai,"294-296, Khu phố 1, Cách Mạng Tháng 8, Phường Quyết Thắng, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam",10.948364,106.815216
+ATM PGD Bửu Long,"3/6c Huỳnh Văn Nghệ, Phường Bửu Long, Thành phố Biên Hòa, Đồng Nai, Việt Nam",10.968192,106.797226
+ATM PGD Tân Mai,"1013 Phạm Văn Thuận, Khu Phố 3,  Phường Tân Mai, Thành phố Biên Hòa, Đồng Nai, Việt Nam",10.9553,106.85061
+ATM PGD Quang Vinh,"19/1 Bùi Hữu Nghĩa, ấp Đồng Nai, xã Hóa An, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam",10.907107,106.82975
+ATM PGD Hố Nai,"A3-A8, quốc lộ 1A, khu phố 5B, phường Tân Biên, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam",10.967549,106.8884
+ATM PGD Thạnh Phú,"459A tỉnh lộ 768, ấp 1 xã Thạnh Phú, Huyện Vĩnh Cửu, Tỉnh Đồng Nai , Việt Nam",11.011583,106.84353
+ATM PGD Tân Hiệp,"433-435 Đồng Khởi, Khu phố 6, Phường Tân Tiến, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam",10.965224,106.85417
+ATM PGD Tân Hòa,"58/1 - 60/1 Quốc lộ 1A, khu phố 2, phường Tân Hòa, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam",10.968022,106.90551
+ATM PGD Vĩnh An,"Khu phố 5, thị trấn Vĩnh An, huyện Vĩnh Cửu, Tỉnh Đồng Nai, Việt Nam",11.086487,107.03361
+ATM PGD Tam Hiệp,"151/2 Phạm Văn Thuận, Khu Phố 4, phường Tam Hiệp, thành phố Biên Hòa, tỉnh Đồng Nai, Việt Nam",10.940314,106.86448
+ATM PGD Tam Phước,"256A Long Đức 1, Xã Tam Phước, Huyện Long Thành, Tỉnh Đồng Nai, Việt Nam",10.844939,106.900085
+ATM PGD Long Bình,"351 Quốc lộ 51, khu phố 1, phường Long Bình Tân, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam",10.895478,106.87548
+ATM PGD Nhơn Trạch,"Số 357, đường Hùng Vương, Ấp 3, xã Hiệp Phước, Huyện Nhơn Trạch, Tỉnh Đồng Nai, Việt Nam",10.741976,106.94559
+ATM PGD Long Thành,"260 Lê Duẩn, Tổ 21 , Khu Văn Hải, Thị Trấn Long Thành, Huyện Long Thành, Tỉnh Đồng Nai, Việt Nam",10.780006,106.95242
+ATM PGD Long Khánh (Xuân Hòa cũ),"520 Hùng Vương, P. Xuân Hòa, Thành phố Long Khánh, Tỉnh Đồng Nai, Việt Nam",10.92543,107.240746
+ATM PGD Định Quán,"193 Quốc lộ 20, ấp Hiệp Quyết, Thị trấn Định Quán, Huyện Định Quán, Tỉnh Đồng Nai, Việt Nam",11.201094,107.3573
+ATM PGD Phương Lâm,"2117 QL20 Ấp Phương Lâm 1, Xã Phú Lâm, Huyện Tân Phú, Tỉnh Đồng Nai, Việt Nam",11.284804,107.48794
+ATM KCN TÂN PHÚ 01,"Lô 3 KCN Tân Phú, Thị trấn Tân Phú, Huyện Tân Phú, Tỉnh Đồng Nai, Việt Nam",11.283813,107.48593
+ATM  PhòngTNMT Huyện Tân Phú,"787 Chu Văn An, khu 10, TT Tân Phú, Huyện Tân Phú, Tỉnh Đồng Nai, Việt Nam",11.271035,107.43783
+ATM PGD Gia Ray,"362 Trần Phú, KP3, TT Gia Ray, Huyện Xuân Lộc, Tỉnh Đồng Nai, Việt Nam",10.925987,107.40475
+ATM PGD Sông Ray,"Ấp 5, xã Sông Ray, Huyện Cẩm Mỹ, Tỉnh Đồng Nai, Việt Nam",10.762622,107.34586
+ATM PGD Trảng Bom 01,"B4-B5 Khu nhà ở Bắc, Quốc lộ 1A, Thị trấn Trảng Bom, Huyện Trảng Bom, Tỉnh Đồng Nai, Việt Nam",10.952845,106.99856
+ATM POUSUNG 02,"KCN Bàu Xéo, Huyện Trảng Bom, Tỉnh Đồng Nai, Việt Nam",10.952845,106.99856
+ATM POUSUNG 03,"KCN Bàu Xéo, Huyện Trảng Bom, Tỉnh Đồng Nai, Việt Nam",10.952845,106.99856
+ATM POUSUNG 04,"KCN Bàu Xéo, Huyện Trảng Bom, Tỉnh Đồng Nai, Việt Nam",10.952845,106.99856
+ATM POUSUNG 05,"KCN Bàu Xéo, Huyện Trảng Bom, Tỉnh Đồng Nai, Việt Nam",10.952845,106.99856
+ATM POUSUNG 12,"KCN Bàu Xéo, Huyện Trảng Bom, Tỉnh Đồng Nai, Việt Nam",10.952845,106.99856
+ATM POUSUNG 07,"KCN Bàu Xéo, Huyện Trảng Bom, Tỉnh Đồng Nai, Việt Nam",10.952845,106.99856
+ATM SHINGMARK 01,"KCN Bàu Xéo, Huyện Trảng Bom, Tỉnh Đồng Nai, Việt Nam",10.953172,107.02497
+ATM SHINGMARK 02,"KCN Bàu Xéo, Huyện Trảng Bom, Tỉnh Đồng Nai, Việt Nam",10.951541,107.01262
+ATM POUSUNG 08,"KCN Bàu Xéo, Huyện Trảng Bom, Tỉnh Đồng Nai, Việt Nam",10.952845,106.99856
+ATM POUSUNG 13,"KCN Bàu Xéo, Huyện Trảng Bom, Tỉnh Đồng Nai, Việt Nam",10.952845,106.99856
+ATM PGD Trảng Bom 02,"B4-B5 Khu nhà ở Bắc, Quốc lộ 1A, Thị trấn Trảng Bom, Huyện Trảng Bom, Tỉnh Đồng Nai, Việt Nam",10.951541,107.01262
+ATM PGD Trảng Bom,"B4-B5 Khu nhà ở Bắc, Quốc lộ 1A, Thị trấn Trảng Bom, Huyện Trảng Bom, Tỉnh Đồng Nai, Việt Nam",10.951541,107.01262
+ATM PGD Hố Nai 3,"Ấp Thanh Hóa, quốc lộ 1A, xã Hố Nai 3, Huyện Trảng Bom, Tỉnh Đồng Nai, Việt Nam",10.961722,106.945076
+ATM PGD Thủ Dầu Một,"Ô 31-32, block f, lô c4, khu nhà ở c2, c4 khu đô thị mới, Đường Đồng Khởi, Phường Hòa Phú, Thành phố Thủ Dầu Một, Tỉnh Bình Dương, Việt Nam",10.97875,106.648674
+ATM PGD Bình An,"Khu phố Nội Hóa 2, Phường Bình An, Thành phố Dĩ An, Tỉnh Bình Dương, Việt Nam",10.903354,106.79378
+ATM PGD Bàu Bàng,"Khu đô thị Bàu Bàng, D1-5A, Ấp Đồng Sổ, Xã Lai Uyên, Huyện Bàu Bàng, tỉnh Bình Dương, Việt Nam",11.2409725,106.636856
+ATM PGD Rạch Dừa,"213-215 Đường 30/04 Phường Nhất Thắng, Thành Phố Vũng tàu,Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",10.399841,107.10983
+ATM CN Nguyễn Đình Chiểu,"Số 58 Nguyễn Đình Chiểu, P. Đa Kao, Quận 1, Thành Phố Hồ Chí Minh, Việt Nam",10.789153,106.69774
+ATM SaiGonRes Plaza,"79-81 đường Nguyễn Xí, Phường 26, Quận Bình Thạnh, Thành Phố Hồ Chí Minh, Việt Nam",10.815855,106.70529
+ATM GiGa Mall,"240-242, Phạm Văn Đồng, Phường Bình Chánh, Thành phố Thủ Đức, Thành Phố Hồ Chí Minh, Việt Nam",10.828201,106.719864
+ATM CN Hàng Xanh,"341 - 343, Điện Biên Phủ, Phường 15, Quận Bình Thạnh, Thành Phố Hồ Chí Minh, Việt Nam",10.795882,106.700966
+ATM CN Gia Lai,"182 Nguyễn Tất Thành, Phường Phù Đổng, Thành phố Pleiku, Tỉnh Gia Lai, Việt Nam",13.972591,108.01225
+ATM CN Bình Thuận,"119 Trần Hưng Đạo, Phường Phú Thủy, Thành Phố Phan Thiết, Tỉnh Bình Thuận, Việt Nam",10.937929,108.10162
+ATM CN Gia Định,"1119 Trần hưng Đạo, Phường 5, Quận 5, Thành Phố Hồ Chí Minh, Việt Nam",10.753252,106.67095
+ATM PGD Gò Vấp,"871 Quang Trung, Phường 12, Quận Gò Vấp, Thành Phố Hồ Chí Minh, Việt Nam",10.843727,106.63884
+ATM PGD Bình Thọ,"Lô LK1-4 Dự án Moonlight Residences 102 Đặng Văn Bi, phường Bình Thọ, Thành phố Thủ Đức, thành phố Hồ Chí Minh, Việt Nam",10.85064,106.76394
+ATM PGD Quang Trung,"Tòa nhà CT2, chung cư Ngô Thì Nhậm, Phường Hà Cầu, Quận Hà Đông, Thành Phố Hà Nội, Việt Nam",20.968464,105.76648
+ATM CN Hồ Gươm,"66 Lê Văn Lương, Phường Nhân Chính, Quận Thanh Xuân, Thành Phố Hà Nội, Việt Nam",21.01451,105.81501
+ATM PGD Hải Đăng,"Số 02, lô 22A, Lê Hồng Phong, Phường Đông Khê, Quận Ngô Quyền, Thành Phố Hải Phòng, Việt Nam",20.84807,106.70476
+ATM Công ty Sao Vàng 01,"22 Tĩnh lộ 360 khu An Tràng , Thị Trấn Trường Sơn, Huyện An Lão, Thành Phố Hải Phòng, Việt Nam",20.816238,106.59962
+ATM CN Quảng Ninh,"9a-10a 25 Tháng 4, Hồng Gai, Thành phố Hạ Long, Quảng Ninh, Việt Nam",20.952223,107.07764
+ATM CN Sóc Trăng,"179-179A Trần Hưng Đạo, Phường 3, Thành Phố Sóc Trăng, Tỉnh Sóc Trăng, Việt Nam",9.594821,105.9679
+ATM PGD Vũng Áng,"Tổ dân phố Liên Giang, Phường Kỳ Long, Thị xã Kỳ Anh, Tỉnh Hà Tĩnh, Việt Nam",18.024914,106.399994
+ATM CN Vĩnh Long,"138 Phạm Thái Bường, Phường 4, Thành Phố Vĩnh Long, Tỉnh Vĩnh Long, Việt Nam",10.244344,105.97587
+ATM CN Lâm Đồng,"1/23 Trần Phú, Phường 4, Thành Phố Đà Lạt, Tỉnh Lâm  Đồng, Việt Nam",11.93635,108.431854
+ATM Resort Hoang Anh Đà Lạt,"Resort Hoàng Anh Đà Lạt 3 Nguyễn Du, Phường 3, Thành Phố Đà Lạt, Tỉnh Lâm  Đồng, Việt Nam",11.945662,108.45727
+ATM CN Đồng Tháp,"13 Lý Thường Kiệt, Phường 2, Thành Phố Cao Lãnh, Tỉnh Đồng Tháp, Việt Nam",10.454537,105.63835
+ATM CN Kiên Giang,"936-938 Ba Tháng Hai, Phường An Hòa, Thành Phố Rạch Giá, Tỉnh Kiên Giang, Việt Nam",9.971364,105.100975
+ATM CN Huế,"41-43 Bến Nghé, Phường Phú Hộ, Thành phố Huế, Thành Phố Huế, Việt Nam",16.465605,107.59271
+ATM CN Thanh Hóa,"Số 13, 14 Phan Chu Trinh, Phường Điện Biên, Thành Phố Thanh Hóa, Tỉnh Thanh Hóa, Việt Nam",19.811687,105.77715
+ATM CN Bến Tre,"72b1 Đồng Khởi, phường Phú Khương, Thành phố Bến Tre, tỉnh Bến Tre, Việt Nam",10.247824,106.374466
+ATM CN Kon Tum,"556a Trần Phú, Phường Quyết Thắng, Thành phố Kon Tum, tỉnh Kon Tum, Việt Nam",14.352571,108.00626
+ATM CN Quảng Ngãi,"219- 221 Quang Trung, Phường Lê Hồng Phong, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi, Việt Nam",15.127678,108.799995
+ATM CN Bình Định,"89 - 91 Mai Xuân Thưởng, Phường Lý Thường Kiệt, Thành phố Quy Nhơn, Tỉnh Bình Định, Việt Nam",13.775487,109.22316
+ATM CTY Tân Phước,"Lô 25,Trung Tâm, KCN Phú Tài, P. Trần Quang Diệu, TP. Quy Nhơn, Tỉnh Bình Định, Việt Nam",13.776869,109.14474
+ATM CN Lạng Sơn,"Số 408 Bà Triệu, Phường Vĩnh Trại, Thành phố Lạng Sơn, Tỉnh Lạng Sơn, Việt Nam",21.847286,106.76325
+ATM CN Quảng Nam,"244 Lý Thường Kiệt, Phường Sơn Phong, Thành phố Hội An, Tỉnh Quảng Nam, Việt Nam",15.882785,108.32819
+ATM CN Nam Định,"08 Nguyễn Du, Phường Nguyễn Du, Thành phố Nam Định, Tỉnh Nam Định",20.427736,106.17784
+ATM CN Bình Phước,"672 Quốc lộ 14, Phường Tân Phú, Thành phố Đồng Xoài, Tỉnh Bình Phước, Việt Nam",11.532486,106.882996
+ATM PGD Diễn Châu,"Thôn 3, xã Diễn Kỳ, Huyện Diễn Châu, Tỉnh Nghệ An, Việt Nam",19.022305,105.58647
+ATM PGD Bình Điền,"Sảnh văn phòng chợ Bình Điền, Đại lộ Nguyễn Văn Linh, Khu Phố 6, Phường 7, Quận 8, Thành Phố Hồ Chí Minh, Việt Nam",10.699434,106.60687
+ATM CN Bắc Giang,"772 Lê Lợi, Phường Dĩnh Kế, Thành phố Bắc Giang, Tỉnh Bắc Giang, Việt Nam",21.279984,106.21377
+ATM CN Ninh Bình,"67 Lương Văn Tụy, phố Phúc Tân , phường Phúc Thành, Thành phố Ninh Bình, tỉnh Ninh Bình, Việt Nam",20.25623,105.96968
+ATM CN Phú Yên,"355-357 Nguyễn Huệ, Phường 5, Thành phố Tuy Hòa, tỉnh Phú Yên, Việt Nam",13.093896,109.31146
+ATM CN Quảng Bình,"352 Trần Hưng Đạo, Phường Nam Lý, Thành phố Đồng Hới, Tỉnh Quảng Bình, Việt Nam",17.46703,106.60577
+ATM CN Tiền Giang,"260-262 Ấp Bắc, Phường 5, Thành phố Mỹ Tho, tỉnh Tiền Giang, Việt Nam",10.365514,106.356834
+ATM PGD Lộc Hà,"22/12 Thôn Hồng Lạc, Xã Thạch Châu, Huyện Lộc Hà, Tỉnh Hà Tĩnh, Việt Nam",18.434593,105.892044
+ATM Tô Ký,"557 Ðường Tô Ký, Phường Trung Mỹ Tây, Quận12, TP.HCM",10.859912,106.61723
+ATM KCN Mỹ Phước,"Đường D17, KCN Mỹ Phước 1, TX. Bến Cát, Bình Dương",11.071338,106.66786
+ATM CTY Việt Cường,"Ấp 1, Xã Nhựt Chánh, Huyện Bến Lức, Tỉnh Long An, Việt Nam",10.623037,106.474266
+ATM PGD Phước Bình,"Tổ 5, ấp 2, Xã Phước Bình, Huyện Long Thành, Tỉnh Đồng Nai, Việt Nam",10.658859,107.037094
+ATM PGD Tân Phong,"348C Nguyễn Ái Quốc, phường Tân Tiến, Thành Phố Biên Hòa, Tỉnh Đồng Nai",10.963081,106.83867
+ATM ĐH Hutech,"475a Đường Điện Biên Phủ, Phường 25, quận Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",10.801907,106.714516
+ATM CTY FULUH (1/2),"Xã Tân Kim, Huyện Cần Giuộc, Tỉnh Long An, Việt Nam",10.614233,106.66255
+ATM SƠN CÔNG NGHIỆP THÁI DƯƠNG - 01,"Lô A10 & A11 Đường N5, Khu công nghiệp nam Tân Uyên mở rộng, Phường Hội Nghĩa, Thành phố Tân Uyên, Tỉnh Bình Dương",11.103403,106.776535
+ATM SƠN CÔNG NGHIỆP THÁI DƯƠNG - 02,"Lô A10 & A11 Đường N5, Khu công nghiệp nam Tân Uyên mở rộng, Phường Hội Nghĩa, Thành phố Tân Uyên, Tỉnh Bình Dương",11.103403,106.776535
+ATM CN TÂN UYÊN,"Khu nhà ở Thương mại Hoàng Mai, Phường Uyên Hưng, Thành phố Tân Uyên, tỉnh Bình Dương, Việt Nam",11.094221,106.774506
+ATM PGD THUẬN AN,"Đường tỉnh 743, Khu phố 1B, Phường An Phú, Thành phố Thuận An, Tỉnh Bình Dương, Việt Nam",10.927918,106.74176
+ATM PGD LÁI THIÊU,"66 Nguyễn Văn Tiết, Khu Phố Đông Tư, phường Lái Thiêu, Thành phố Thuận An, tỉnh Bình Dương, Việt Nam",10.915266,106.70763
+ATM PGD BÙ ĐĂNG,"281 Quốc lộ 14, thị trấn Đức Phong, huyện Bù Đăng, tỉnh Bình Phước, Việt Nam",11.810749,107.23538
+ATM PGD CHƠN THÀNH,"69 Đường 2 Tháng 4, Khu phố 3, Thị trấn Chơn Thành, Huyện Chơn Thành, Tỉnh Bình Phước",11.438829,106.61734
+ATM CTY POWERKNIT POUSUNG,"Khu công nghiệp Bàu Xéo, huyện Trảng Bom, tỉnh Đồng Nai, Việt Nam",10.958135,107.027626
+ATM PGD ĐÔNG HÒA,"Số 12 Ấp Bàu Cá , Xã Trung Hòa, Huyện Trảng Bom, Tỉnh Đồng Nai, Việt Nam",10.943153,107.06734
+ATM CTY TNHH LUTHAI TÂN CHÂU,"Cụm công nghiệp Tân Hội 1, Xã Tân Hội, Huyện Tân Châu, TỉnhTây Ninh, Việt Nam",11.646481,106.18603
+ATM PGD TÂN CHÂU,"105-107 Trần Văn Trà, thị trấn Tân Châu, huyện Tân Châu, tỉnh Tây Ninh, Việt Nam",11.554492,106.16192
+ATM CTY TNHH VẬT LIỆU MỸ THUẬT PHƯỢNG HOÀNG VN,"Lô 107-108 KCX Linh Trung 3, Phường An Tịnh, Thị xã Trảng Bàng, Tỉnh Tây Ninh, Việt Nam",11.013431,106.39452
+ATM CTY TNHH KENRIES VIỆT NAM,"Đường D10 KCN Thành Thành Công, Phường An Hòa, Thị xã Trảng Bàng, Tỉnh Tây Ninh, Việt Nam",11.021049,106.31925
+ATM PGD LỤC NAM,"16 Phố Thanh Xuân, thị trấn Đồi Ngô, huyện Lục Nam, tỉnh Bắc Giang, Việt Nam",21.299473,106.384186
+ATM PGD TÂN YÊN,"Lô D3 Cao Kỳ Vân, tt. Cao Thượng, Huyện Tân Yên, Tỉnh Bắc Giang, Việt Nam",21.28763,106.19247
+ATM PGD VIỆT YÊN,"Thôn vàng, thị trấn Bích Động, Huyện Việt Yên, tỉnh Bắc Giang, Việt Nam",21.28096,106.10811
+ATM CN BẮC KẠN,"35 Trường Chinh, tổ 5, phường Phùng Chí Kiên, Bắc Kạn, tỉnh Bắc Kạn, Việt Nam",22.142002,105.83322
+ATM PGD LÝ THƯỜNG KIỆT,"179a-181a Nam Kỳ Khởi Nghĩa, Phường 3, Thành phố Vũng Tầu, tỉnh Bà Rịa - Vũng Tàu, Việt Nam",10.350613,107.08613
+ATM GRAND ART,"Đường D 17, KCN Mỹ Phước 1, Thị xã Bến Cát, Tỉnh Bình Dương, Việt Nam",11.118476,106.600845
+ATM CTY SAO VÀNG THÁI XUYÊN,"Cụm Công nghiệp Mỹ Xuyên, xã Thái Xuyên, huyện Thái Thụy, tỉnh Thái Bình, Việt Nam",20.491434,106.54183
+ATM PGD TIỀN HẢI,"38 Phố Hùng Thắng, Tổ Dân Phố Hùng Thắng, thị trấn Tiền Hải, huyện Tiền Hải, tỉnh Thái Bình, Việt Nam",20.400917,106.4995
+ATM CÔNG TY TNHH XHL,"Cụm công nghiệp minh lãng, xã Minh Lãng, huyện Vũ Thư, tỉnh Thái Bình, Việt Nam",20.482195,106.26659
+ATM PGD PHỔ YÊN,"17, Tổ dân phố 6, Phường Ba Hàng, Thành phố Phổ Yên, Tỉnh Thái Nguyên",21.413668,105.87273
+ATM PGD PHÚ BÌNH,"tổ 1, thị trấn Hương Sơn, huyện Phú Bình, tỉnh Thái Nguyên, Việt Nam",21.460976,105.98468
+ATM CN TUYÊN QUANG,"69 Hà Huy Tập, phường Phan Thiết, Thành phố Tuyên Quang, tỉnh Tuyên Quang, Việt Nam",21.817213,105.20514
+ATM PGD LẬP THẠCH,"Tỉnh lộ 307, Khu vực Trẻ Gắp , thị trấn Lập Thạch, huyện Lập Thạch, tỉnh Vĩnh Phúc, Việt Nam",21.418222,105.45514
+ATM PGD PHÚC YÊN,"01 Sóc Sơn, Phường Trưng Trắc, Thành phố Phúc Yên, tỉnh Vĩnh Phúc, Việt Nam",21.237957,105.70704
+ATM CN YÊN BÁI,"738 Điện Biên, Minh Tân, Thành phố Yên Bái, tỉnh Yên Bái, Việt Nam",21.714762,104.90269
+ATM PGD ĐÔ LƯƠNG,"khu đô thị Vườn xanh, khối 4, thị trấn Đô Lương, huyện Đô Lương, tỉnh Nghệ An, Việt Nam",18.892096,105.308
+ATM PGD BẮC NGHỆ AN,"Khối Bắc Mỹ Phường Quỳnh Thiện, Thị xã Hoàng Mai, Tỉnh Nghệ An, Việt Nam",19.257996,105.71274
+ATM PGD NINH SƠN,"231 Lê Duẩn, thị trấn Tân Sơn, huyện Ninh Sơn, tỉnh Ninh Thuận, Việt Nam",11.779479,108.779655
+ATM PGD THỐT NỐT,"161 Quốc lộ 91, Khu vực Long Thạnh 1, phường Thốt Nốt, quận Thốt Nốt, thành phố Cần Thơ, Việt Nam",10.265529,105.54159
+ATM PGD NGỌC HỒI,"843 Hùng Vương, Tổ dân phố 2, Thị trấn Plei Cần, Huyện Ngọc Hồi, Tỉnh Kon Tum, Việt Nam",14.70718,107.691154
+ATM PGD BẢO LỘC,"40 Đường Hà Giang, Phường Lộc Sơn, Thành phố Bảo Lộc, Tỉnh Lâm Đồng, Việt Nam",11.542364,107.81695
+ATM PGD DI LINH,"749 Đường Hùng Vương, thị trấn Di Linh, huyện Di Linh, Tỉnh Lâm Đồng, Việt Nam",11.5907955,108.07857
+ATM PGD BẮC AN KHÁNH,"Tòa nhà 101 Khu chung cư, Khu đô thị Splendora, Bắc An Khánh, Huyện Hoài Đức, Thành phố Hà Nội, Việt Nam",21.016645,105.724205
+ATM PHÒNG VÉ VJA CÔNG TRƯỜNG QUỐC TẾ,"8 Bis Công Trường Quốc Tế, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",10.782562,106.696465
+ATM PGD CHỢ LỚN,"454-456 Đường Hồng Bàng, phường 16, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",10.754318,106.64319
+ATM PGD HIỆP THÀNH,"184 Đường Nguyễn Ảnh Thủ, phường Hiệp Thành, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",10.877042,106.64298
+ATM PGD THÁC MƠ,"Đường Nguyễn Tất Thành, Khu Phố 5, phường Long Phước, thị xã Phước Long, tỉnh Bình Phước, Việt Nam",11.827973,106.973495
+ATM PGD THUẬN THÀNH,"LK13-1 & LK13-2 khu nhà ở tổng hợp thị trấn Hồ, huyện Thuận Thành, tỉnh Bắc Ninh, Việt Nam",21.056854,106.09047
+ATM CN CAO BẰNG,"40 Kim Đồng, phường Hợp Giang, Thành phố Cao Bằng, tỉnh Cao Bằng, Việt Nam",22.663074,106.25996
+ATM PGD TRUNG TÂM,"100 Hoàng Văn Thụ, Phường Vạn Thắng, Thành phố Nha Trang, tỉnh Khánh Hòa, Việt Nam",12.25299,109.18726
+ATM PGD BA TRI,"34 Đường 19/5, Khu phố 2, Ba Tri, huyện Ba Tri, tỉnh Bến Tre, Việt Nam",10.042536,106.596664
+ATM CTY Y J VINA,"ấp nghĩa Huấn, xã Mỹ Thạnh, huyện Giồng Trôm, tỉnh Bến Tre, Việt Nam",10.225153,106.43009
+ATM CTY VIỆT VƯƠNG 3,"Ấp Tân Long II, CCN Tân Thành Bình, Tân Thành Bình, Huyện Mỏ Cày Bắc, Tỉnh Bến Tre, Việt Nam",10.207664,106.3232
+ATM PGD MỎ CÀY BẮC,"67 Tỉnh lộ 882, Khu phố Phước Hậu, Thị trấn Phước Mỹ Trung, Huyện Mỏ Cày Bắc, Tỉnh Bến Tre, Việt Nam",10.194708,106.27132
+ATM PGD DUY MINH,"Trung Tâm Thương Mại Thạnh Phú, 411/1 Khu phố 1, tt. Thạnh Phú, Huyện Thạnh Phú, Tỉnh Bến Tre, Việt Nam",9.951536,106.52125
+ATM PGD TẮC VÂN,"666 Quốc lộ 1A, xã Tắc Vân, Thành phố Cà Mau, tỉnh Cà Mau, Việt Nam",9.174805,105.16542
+ATM CTY VINATEX - NHÀ MÁY CẦN THƠ,"Trung tâm thương mại Huyện Vĩnh Thạnh, Ấp Vĩnh Tiến, tt Vĩnh Thạnh, Huyện Vĩnh Thạnh, Thành phố Cần Thơ, Việt Nam",10.226366,105.3961
+ATM CTY Nghị Phong 2,"KCN Trần Quốc Toản, phường 11, TP. Cao Lãnh, Tỉnh Đồng Tháp, Việt Nam",10.502305,105.56611
+ATM PGD SA ĐÉC,"A08-10 Đường Hùng Vương, Khóm 1, Phường 2, Thành phố Sa Đéc, tỉnh Đồng Tháp, Việt Nam",10.288922,105.7671
+ATM PGD THÁP MƯỜI,"118 Đường Hùng Vương, Khóm 4, tt. Mỹ An, Huyện Tháp Mười, Tỉnh Đồng Tháp, Việt Nam",10.519898,105.84188
+ATM CN HẬU GIANG,"100-100A-100B Nguyễn Thái Học, Phường 1, Thành phố Vị Thanh, tỉnh Hậu Giang, Việt Nam",9.778083,105.466095
+ATM CTY JIA ZHI 2,"Tòa nhà điều hành Cụm Công Nghiệp - Tiểu Thủ Công Nghiệp Phường 7, Thành phố Vị Thanh, tỉnh Hậu Giang, Việt Nam",9.753597,105.417175
+ATM CTY VINATEX - NHÀ MÁY KIÊN GIANG,"Ngã 3 Lộ Quẹo, ấp An Hòa, xã Định An, huyện Gò Quao, Tỉnh Kiên Giang, Việt Nam",9.74726,105.31313
+ATM PGD TÂY SÀI GÒN,"258 Đường Vành Đai Trong, phường Bình Trị Đông B, quận Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",10.750918,106.61543
+ATM PGD CỦ CHI,"35-37 Tỉnh lộ 8, Khu phố 1, thị trấn Củ Chi, huyện Củ Chi, Thành phố Hồ Chí Minh, Việt Nam",10.983638,106.57513
+ATM PGD NGUYỄN HỮU THỌ,"43-45 Khu dân cư Phú Long, Phân khu số 5, Nguyễn Hữu Thọ, Xã Phước Kiển, Huyện Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam",10.709022,106.70978
+ATM PHÒNG VÉ VJA TTTM MENAS,"60A Trường Sơn, quận Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",10.813025,106.66576
+ATM TTTM MENAS MALL - VJ PLAZA,"60A Trường Sơn, quận Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",10.813025,106.66576
+ATM BỆNH VIỆN SHINGMARK,"Phường Long Bình Tân, Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam",10.901244,106.85267
+ATM PGD ĐĂK BLA,"931 Phạm Văn Đồng, phường Trần Hưng Đạo, Thành phố Kon Tum, tỉnh Kon Tum, Việt Nam",14.295372,107.99538
+ATM PGD An Khê,"Số 1063 Quang Trung, Phường An Phú, Thị xã An Khê, Tỉnh Gia Lai",13.960023,108.63978
+ATM PGD Chư Sê,"807B Hùng Vương, thị trấn Chư Sê, Huyện Chư Sê, Tỉnh Gia Lai",13.698425,108.07492
+ATM Trung đoàn 66,"Xã Ea H'leo, Huyện Ea H'Leo, Tỉnh Đắk Lắk",13.31936,108.071724
+ATM PGD VĂN GIANG,"137 phố Văn Giang, thị trấn Văn Giang, tỉnh Hưng Yên, Việt Nam",20.939444,105.92593
+ATM CN LAI CHÂU,"61 Đại lộ Lê Lợi, Tổ 10, Phường Tân Phong, Thành phố Lai Châu, Tỉnh Lai Châu, Việt Nam",22.392895,103.47507
+ATM PGD HỮU LŨNG,"Số 10A Chi Lăng, Khu An Ninh, tt. Hữu Lũng, Huyện Hữu Lũng, Tỉnh Lạng Sơn, Việt Nam",21.506287,106.34435
+ATM PGD ĐOAN HÙNG,"598 Đồng Tâm, thị trấn Đoan Hùng, huyện Đoan Hùng, tỉnh Phú Thọ, Việt Nam",21.624638,105.18494
+ATM PGD CẨM PHẢ,"402 Trần Phú, Thành phố Cẩm Phả, tỉnh Quảng Ninh, Việt Nam",21.010023,107.26932
+ATM KHÁCH SẠN HOÀNG GIA,"Hạ Long, phường Bãi Cháy, Thành phố Hạ Long, tỉnh Quảng Ninh, Việt Nam",20.95326,107.04478
+ATM PGD PHÙ YÊN,"Bản phố xã Huy bắc, KĐT 2/9 Phù Yên, Huyện Phù Yên, Tỉnh Sơn La, Việt Nam",21.25493,104.606316
+ATM CTY TNHH PS VINA,"Khu công nghiệp Gia Lễ, Xã Đông Xuân, Huyện Đông Hưng, Tỉnh Thái Bình, Việt Nam",20.503223,106.35668
+ATM NHÀ MÁY SAO VÀNG QUỲNH PHỤ 01,"Cụm Công Nghiệp, Quỳnh Côi, Xã Quỳnh Mỹ, Huyện Quỳnh Phụ, Tỉnh Thái Bình, Việt Nam",20.645836,106.32522
+ATM NHÀ MÁY SAO VÀNG QUỲNH PHỤ 02,"Cụm Công Nghiệp, Quỳnh Côi, Xã Quỳnh Mỹ, Huyện Quỳnh Phụ, Tỉnh Thái Bình, Việt Nam",20.645836,106.32522
+ATM PGD ĐỨC LINH,"15a Tỉnh Lộ 766, Thôn 4, Xã Đức Hạnh, Huyện Đức Linh, Tỉnh Bình Thuận, Việt Nam",11.145743,107.50454
+ATM PGD HÀM THUẬN NAM,"Lập Hòa, thị trấn Thuận Nam, huyện Hàm Thuận Nam, tỉnh Bình Thuận, Việt Nam",10.840835,107.85987
+ATM TTTM LOTTE PHAN THIẾT,"Khu dân cư Hùng Vương 1, Phường Phú Thủy, Thành phố Phan Thiết, tỉnh Bình Thuận, Việt Nam",10.938028,108.11649
+ATM PGD PHAN RÍ,"167 Thống Nhất, Khu phố 6, Thị trấn Phan Rí Cửa, Huyện Tuy Phong, Tỉnh Bình Thuận, Việt Nam",11.175014,108.56497
+ATM FORMOSA HÀ TĨNH,"Công ty Formosa Thôn Liên Giang, Phường Kỳ Long, Thị xã Kỳ Anh, tỉnh Hà Tĩnh, Việt Nam",18.029583,106.404076
+ATM PGD CAM RANH,"109 Đại lộ Hùng Vương, phường Cam Lợi, Thành phố Cam Ranh, tỉnh Khánh Hòa, Việt Nam",11.916933,109.14323
+ATM CTY TNHH LIÊN DOANH HOA VIỆT,"Số 18, Đường 2, Giãn Dân, Phường Long Thạnh Mỹ, Thành Phố Thủ Đức, Thành Phố Hồ Chí Minh, Việt Nam",10.841163,106.82504
+ATM CTY CP COLUSA MILIKET,"1230 Kha Vạn Cân, Phường Linh Trung, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",10.861815,106.761154
+ATM TRUNG TÂM ĐÀO TẠO NGUỒN NHÂN LỰC CHẤT LƯỢNG CAO (HUTECH),"Khu Công nghệ cao, Phường Hiệp Phú, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",10.855567,106.78511
+ATM CTY FULUH (2/2),"Xã Tân Kim, Huyện Cần Giuộc, Tỉnh Long An, Việt Nam",10.622741,106.65861
+PGD Từ Sơn,"Tòa nhà Long Phương, Đông Ngàn, Từ Sơn, Bac Ninh Province, Vietnam",21.116098,105.95534
+ATM CN ĐIỆN BIÊN,"822 Đường Võ Nguyên Giáp, phường Tân Thanh, Thành phố Điện Biên Phủ, tỉnh Điện Biên, Việt Nam",21.394821,103.01786
+ATM PGD DUY TIÊN,"650 Nguyễn Hữu Tiến, Phường Duy Minh, Thị xã Duy Tiên, Tỉnh Hà Nam, Việt Nam",20.643118,105.92198
+ATM PGD THÀNH ĐÔNG,"22 Quang Trung, phường Quang Trung, Thành phố Hải Dương, tỉnh Hải Dương, Việt Nam",20.939621,106.333664
+ATM PGD ĐIỆN BIÊN PHỦ,"199 Điện Biên Phủ, phường Bình Hàn, Thành phố Hải Dương, tỉnh Hải Dương, Việt Nam",20.94159,106.32117
+ATM NHÀ MÁY SAO VÀNG NINH GIANG,"Khu 3, Thị trấn Ninh Giang, huyện Ninh Giang, tỉnh Hải Dương, Việt Nam",20.73128,106.40037
+ATM Nhà Máy Liên Dinh 2,"KM số 9 đường Phạm Văn Ðồng, Phường Hải Thành, Quận Dương Kinh, Thành Phố Hải Phòng, Việt Nam",20.794285,106.7204
+ATM PGD Thạnh Phú,"459A tỉnh lộ 768, ấp 1 xã Thạnh Phú, Huyện Vĩnh Cửu, Tỉnh Đồng Nai , Việt Nam",11.006763,106.82318
+ATM Công ty Sao Vàng 02,"22 Tĩnh lộ 360 khu An Tràng , Thị Trấn Trường Sơn, Huyện An Lão, Thành Phố Hải Phòng, Việt Nam",20.81104,106.5923
+ATM CTY FULUH (1/3),"Xã Tân Kim, Huyện Cần Giuộc, Tỉnh Long An, Việt Nam",10.622741,106.65861
+ATM CTY FULUH (2/3),"Xã Tân Kim, Huyện Cần Giuộc, Tỉnh Long An, Việt Nam",10.622741,106.65861
+ATM KDC SWANBAY 01,"Xã Đại Phước, Huyện Nhơn Trạch, Tỉnh Đồng Nai, Việt Nam",10.735753,106.83114
+ATM KDC SWANBAY 02,"Xã Đại Phước, Huyện Nhơn Trạch, Tỉnh Đồng Nai, Việt Nam",10.735753,106.83114
+ATM CÔNG TY HWASEUNG VINA,"Khu công nghiệp Nhơn Trạch 1, xã Phú Hội, huyện Nhơn Trạch, tỉnh Đồng Nai, Việt Nam",10.731791,106.91694
+ATM KCN TÂN PHÚ 02,"Lô 3 KCN Tân Phú, Thị trấn Tân Phú, Huyện Tân Phú, Tỉnh Đồng Nai, Việt Nam",11.271572,107.426155
+ATM PGD THỐNG NHẤT,"A2/063, Quốc lộ 20, ấp Bắc Sơn, xã Quang Trung, huyện Thống Nhất, tỉnh Đồng Nai, Việt Nam",11.023083,107.17594
+ATM CTY KỲ LỢI,"Khu công nghiệp Bàu Xéo, huyện Trảng Bom, tỉnh Đồng Nai, Việt Nam",10.958135,107.027626
+ATM CTY STAIRY,"Khu công nghiệp Bàu Xéo, huyện Trảng Bom, tỉnh Đồng Nai, Việt Nam",10.958135,107.027626
+ATM CTY POWERKNIT CN TRANG BOM,"Khu công nghiệp Bàu Xéo, huyện Trảng Bom, tỉnh Đồng Nai, Việt Nam",10.958135,107.027626
+ATM CTY TOP SPORT TEXTILE VN,"Lô số B171, B172, Đường N11, KCN Thành Thành Công, Khu phố An Hội, Phường An Hòa, Thị xã Trảng Bàng, Tỉnh Tây Ninh, Việt Nam",11.021049,106.31925
+ATM PGD AN NHƠN,"146-148 Ngô Gia Tự, phường Bình Định, Thị xã An Nhơn, tỉnh Bình Định, Việt Nam",13.888848,109.11629
+ATM PGD BỒNG SƠN,"221-223 Quang Trung, thị trấn Bồng Sơn, huyện Hoài Nhơn, tỉnh Bình Định, Việt Nam",14.43477,109.0176
+ATM CTY MAY PHÙ CÁT,"Thôn Phú Kim, Xã Cát Trinh, Huyện Phù Cát, Tỉnh Bình Định, Việt Nam",14.012828,109.07131
+ATM PGD ĐIỆN BÀN,"147 Trần Nhân Tông, Phường Vĩnh Điện, Thị xã Điện Bàn, Tỉnh Quảng Nam, Việt Nam",15.890241,108.24862
+ATM PGD NÚI THÀNH,"193 Nguyễn Văn Linh, thị trấn Núi Thành, huyện Núi Thành, tỉnh Quảng Nam, Việt Nam",15.434547,108.65335
+ATM PGD TAM KỲ,"237-239 Phan Chu Trinh, phường Phước Hòa, Thành phố Tam Kỳ, tỉnh Quảng Nam, Việt Nam",15.568631,108.489525
+ATM CN QUẢNG TRỊ,"102 Quốc lộ 9, Phường 1, Thành phố Đông Hà, tỉnh Quảng Trị, Việt Nam",16.810482,107.05969
+ATM PGD ĐÀO DUY TỪ,"LK1-19 Đào Duy Từ, phường Ba Đình, Thành phố Thanh Hóa, Tỉnh Thanh Hóa, Việt Nam",19.801773,105.77929
+ATM PGD TĨNH GIA,"232 Quang Trung,  Phường Hải Hòa, Thị xã Nghi Sơn, Tỉnh Thanh Hóa, Việt Nam",19.451408,105.78163
+ATM CN HUẾ,"41-43 Bến Nghé, phường Phú Hội, Thành phố Huế, tỉnh Thừa Thiên Huế, Việt Nam",16.465895,107.59485
+ATM PGD GIÁ RAI,"122 Quốc lộ 1A, Phường Hộ Phòng, Thị xã Giá Rai, Tỉnh Bạc Liêu, Việt Nam",9.233295,105.43807
+ATM PGD MINH DIỆU,"603 Quốc lộ 1A, thị trấn Hòa Bình, huyện Hòa Bình, tỉnh Bạc Liêu, Việt Nam",9.2803135,105.62297
+ATM CN Long An 2,"112-114-116 Nguyễn Văn Tiếp, khu phố 3, thị trấn Bến Lức, huyện Bến Lức, tỉnh Long An, Việt Nam",10.639959,106.492584
+ATM PGD CAI LẬY,"2-8 Đặng Văn Thạnh, Khu phố 1, Phường 1, Thị xã Cai Lậy, Tỉnh Tiền Giang, Việt Nam",10.411129,106.12127
+ATM PGD GÒ CÔNG,"124-126 Trương Định, khu phố 3, phường 2, Thành phố Gò Công, Tỉnh Tiền Giang, Việt Nam",10.357803,106.67498
+ATM CN TRÀ VINH,"VINCOM SHOPHOUSE, PG1 -01-02-03, Nam Kỳ Khởi Nghĩa, phường 2, Thành phố Trà Vinh, Tỉnh Trà Vinh, Việt Nam",9.936006,106.33907
+ATM PGD BÌNH MINH,"75 Nguyễn Văn Thảnh, Khóm 2, Phường Cái Vồn, Thị xã Bình Minh, tỉnh Vĩnh Long, Việt Nam",10.069646,105.81668
+ATM PGD BÌNH SƠN,"Đường DT 769, Ấp 8, xã Bình Sơn, huyện Long Thành, tỉnh Đồng Nai, Việt Nam",10.795011,107.00937
+ATM CTY SUN VIGOR,"CCN Tiên Cường, Xã Tiên Cường, Huyện Tiên Lãng, Thành phố Hải Phòng, Việt Nam",20.772572,106.51421
+ATM NHÀ MÁY DA GIÀY SAO VÀNG TIÊN LÃNG,"Khu 6, thị trấn Tiên Lãng, Huyện Tiên Lãng, Thành phố Hải Phòng, Việt Nam",20.72179,106.5689
+ATM PGD KHOÁI CHÂU,"Khu Tttm An Bình, Xã Dân Tiến, Huyện Khoái Châu, Tỉnh Hưng Yên, Việt Nam",20.839743,106.005844
+ATM PGD TÂY SƠN,"2B Nguyễn Huệ, Thị trấn Phú Phong, Huyện Tây Sơn, Tỉnh Bình Định, Việt Nam",13.907115,108.922714
+ATM PGD HÒA HIỆP,"Hòa Hiệp, Phường Hoà Hiệp Trung, Thị xã Đông Hòa, Tỉnh Phú Yên, Việt Nam",12.995182,109.372375
+ATM PGD SÔNG HINH,"82 Trần Hưng Đạo, Khu phố 4, thị trấn Hai Riêng, huyện Sông Hinh, tỉnh Phú Yên, Việt Nam",12.981365,108.89964
+ATM PGD TUY AN,"318-320 Quốc lộ 1A, thị trấn Chí Thạnh, huyện Tuy An, tỉnh Phú Yên, Việt Nam",13.313238,109.21772
+ATM PGD BA ĐỒN,"137-139 Hùng Vương, Phường Ba Đồn, Thị xã Ba Đồn, tỉnh Quảng Bình, Việt Nam",17.752943,106.422005
+ATM PGD BỐ TRẠCH,"49 Hùng Vương, thị trấn Hoàn Lão, huyện Bố Trạch, tỉnh Quảng Bình, Việt Nam",17.604895,106.53271
+ATM PGD LỆ THỦY,"42 Nguyễn Tất Thành, thị trấn Kiến Giang, huyện Lệ Thủy, tỉnh Quảng Bình, Việt Nam",17.2242,106.79519
+ATM PGD NĂM CĂN,"221 Hùng Vương, Khóm 7, thị trấn Năm Căn, huyện Năm Căn, tỉnh Cà Mau, Việt Nam",8.759554,104.9935
+ATM PGD Ô MÔN,"1147/6 Tôn Đức Thắng, khu vực 4, Phường Châu Văn Liêm, Quận Ô Môn, Thành phố Cần Thơ, Việt Nam",10.109492,105.62559
+ATM CN PHÚ QUỐC,"139 Đường Nguyễn Trung Trực, Phường Dương Đông, Phú Quốc, Kiên Giang, Việt Nam",10.223419,103.9646
+ATM CTY TNHH GIÀY CHING LUH VIỆT NAM,"Lô II-8, II-9, KCN Hoà Phú, Ấp Thành Hưng, Xã Hoà Phú, Huyện Long Hồ, Tỉnh Vĩnh Long, Việt Nam",10.164289,105.93505
+ATM PGD TAM BÌNH,"24 Phan Văn Đáng, khóm 1, thị trấn Tam Bình, huyện Tam Bình, tỉnh Vĩnh Long, Việt Nam",10.049479,106.00035
+ATM PGD VŨNG LIÊM,"160n Nam Kỳ Khởi Nghĩa, Khóm 2, thị trấn Vũng Liêm, huyện Vũng Liêm, tỉnh Vĩnh Long, Việt Nam",10.095427,106.18574
+ATM PGD KRÔNG BÚK,"Quốc lộ 14, Tân Lập 3, Xã Pơng Drang, huyện Krông Búk, tỉnh Đăk Lăk, Việt Nam",12.944231,108.255196
+ATM PGD ĐĂK MIL,"16 Trần Hưng Đạo, tt. Đắk Mil, Đắk Mil, Đắk Nông, Việt Nam",12.448546,107.61932
+ATM PGD KIẾN ĐỨC,"03 Đường Nguyễn Tất Thành, thị trấn Kiến Đức, huyện Đắk R'Lấp, Tỉnh Đắk Nông, Việt Nam",11.991632,107.51034
+ATM CN ĐĂK NÔNG,"354 Tôn Đức Thắng, Phường Nghĩa Thành, Thành phố Gia Nghĩa, Tỉnh Đắk Nông, Việt Nam",12.007066,107.683945
+ATM PGD TUY ĐỨC,"Thôn 2, Đắk Búk So, Huyện Tuy Đức, Tỉnh Đắk Nông, Việt Nam",12.222142,107.46769
+ATM PGD ĐĂK HÀ,"501 Hùng Vương, thị trấn Đắk Hà, huyện Đắk Hà, tỉnh Kon Tum, Việt Nam",14.516138,107.9193
+PGD HÒN ĐẤT,"Số 11 Tổ 10 Khu phố Đường Hòn, Thị trấn Hòn Đất, Huyện Hòn Đất, Tỉnh Kiên Giang, Việt Nam",10.185602,104.928925
+KCN BECAMEX,"Khu công nghiệp Becamex, Khu phố 3, Phường Minh Thành, Thị xã Chơn Thành, Tỉnh Bình Phước, Việt Nam",11.425617,106.68358
+ATM PGD THANH ĐA,"667 Xô Viết Nghệ Tĩnh, Phường 26, Quận Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",10.811993,106.7147
+ATM TÒA NHÀ G.I.H,"Lô T2-1.5, Đường D1, Khu công nghệ cao, Phường Tân Phú và Phường Tăng Nhơn Phú A, TP Thủ Đức, TP Hồ Chí Minh",10.853732,106.79521
+ATM CÔNG TY SAO VÀNG TIÊN LÃNG 2,"Khu 6, Thị trấn Tiên Lãng, Huyện Tiên Lãng, Thành phố Hải Phòng, Việt Nam",20.72179,106.5689
+ATM PGD ĐAN PHƯỢNG,"Số 244 Tây Sơn, Thị trấn Phùng, Huyện Đan Phượng, Thành phố Hà Nội, Việt Nam",21.088097,105.67544
+ATM CN PHÚ MỸ,"16-18 Trường Chinh , Phường Phú Mỹ, Thị Xã Phú Mỹ, Bà Rịa -Vũng Tàu, Việt Nam",10.588168,107.05837
+ATM PGD XUÂN AN,"Khu phố 1, Hùng Vương, Phường Xuân Bình, Thành phố Long Khánh, Tỉnh Đồng Nai, Việt Nam",10.939076,107.238914
+ATM CÔNG TY TNHH MAY MẶC THỜI TRANG RENAISSANCE,"Lô 97a, Kcn Long Giang, Xã Tân Lập 1, Huyện Tân Phước, Tỉnh Tiền Giang, Việt Nam",10.476334,106.29298
+ATM PGD TIỂU CẦN,"214 Đường Tránh Ql60, Khóm 2, Thị Trấn Tiểu Cần, Huyện Tiểu Cần, Trà Vinh, Việt Nam",9.817584,106.192604
+ATM PGD DUYÊN HẢI,"36-38 Điện Biên Phủ, Khóm 1, Phường 1, Thị Xã Duyên Hải, Trà Vinh, Việt Nam",9.634604,106.4929
+ATM SIÊU THỊ GO! NINH THUẬN,"102-104, Ngô Gia Tự, Phường Phủ Hà, Thành Phố Phan Rang - Tháp Chàm, Tỉnh Ninh Thuận, Việt Nam",11.575576,108.987785
+ATM PGD NGÃ BẢY,"61 Nguyễn Thị Minh Khai, Kv 3, Thành Phố Ngã Bảy, Tỉnh Hậu Giang, Việt Nam",9.815,105.81899
+ATM PGD NAM PHƯỚC LONG,"233a, Ấp Long Thành, Thị Trấn Phước Long, Huyện Phước Long, Tỉnh Bạc Liêu, Việt Nam",9.436141,105.46238
+ATM KV CHỢ ĐÊM DƯƠNG ĐÔNG - PHÚ QUỐC CENTRE,"01 Trần Hưng Đạo, Kp 7, Phường Dương Đông, Tp. Phú Quốc, Tỉnh Kiên Giang, Việt Nam",10.223354,103.96644
+ATM CTY AGRIS GIA LAI,"561 Trần Hưng Đạo, Phường Cheo Reo, Thị Xã Ayun Pa, Tỉnh Gia Lai, Việt Nam",13.420942,108.42635
+ATM CN MỸ HÀO,"Trung Tâm Thương Mại Dịch Vụ 2 Thuộc Dự Án Khu Nhà Ở Công Nhân, Nhà Ở Thương Mại Lạc Hồng – Phố Nối, Phường Nhân Hòa, Thị Xã Mỹ Hào, Tỉnh Hưng Yên, Việt Nam",20.942312,106.0764
+ATM PGD HÀM YÊN,"208 Phố Cầu Mới, Thị Trấn Tân Yên, Huyện Hàm Yên, Tỉnh Tuyên Quang, Việt Nam",22.25739,104.61779
+ATM PGD ĐẠI TỪ,"590 Quốc Lộ 37, Tổ Dân Phố Chợ 1, Thị Trấn Hùng Sơn, Huyện Đại Từ, Tỉnh Thái Nguyên, Việt Nam",21.632248,105.63865
+ATM CN THÁI BÌNH,"Số 5 Quang Trung, Thành Phố Thái Bình, Tỉnh Thái Bình, Việt Nam",20.43543,106.331985
+ATM PGD VĂN LÂM,"Thị Trấn Như Quỳnh, Huyện Văn Lâm, Tỉnh Hưng Yên, Việt Nam",20.984203,105.98061
+ATM CTY MAY ONEWOO,"Lô B/B1 Cụm Cn Hà Lam - Chợ Được, Xã Bình Phục, Huyện Thăng Bình, Tỉnh Quảng Nam, Việt Nam",15.738455,108.35177
+CTY TNHH MAY MẶC V.J.ONE,"Thôn An Ry, Xã Hồng Bạch, Huyện Đông Hưng, Tỉnh Thái Bình, Việt Nam",20.516106,106.26436
+ATM BỆNH VIỆN QUẬN BÌNH THẠNH,"132 Lê Văn Duyệt, Phường 1, Quận Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",10.799326,106.69653
+ATM CTY MAY D' SAGO,"50 Ql1a, Thôn Suối Đá, Xã Lợi Hải, Huyện Thuận Bắc, Tỉnh Ninh Thuận, Việt Nam",11.717293,109.057556
+ATM BƯU ĐIỆN NAM CÁT TIÊN,"Ấp 1, Xã Nam Cát Tiên, Huyện Tân Phú, Đồng Nai, Việt Nam",11.423663,107.437485
+ATM BỆNH VIỆN ĐA KHOA CÁI NƯỚC,"Khóm 2, Thị Trấn Cái Nước, Huyện Cái Nước, Tỉnh Cà Mau, Việt Nam",8.938016,105.01599
+ATM BỆNH VIỆN ĐA KHOA TRẦN VĂN THỜI,"Đường 19/5, Khóm 7, Thị Trấn Trần Văn Thời, Tỉnh Cà Mau, Việt Nam",9.073157,104.967316
+ATM TRUNG TÂM Y TẾ HUYỆN THỚI BÌNH,"Khóm 1, Thị Trấn Thới Bình, Huyện Thới Bình, Tỉnh Cà Mau, Việt Nam",9.351297,105.15572
+ATM PGD THÀNH CỔ,"226-228 Trần Hưng Đạo, Phường 2, Thị Xã Quảng Trị, Tỉnh Quảng Trị, Việt Nam",16.7556,107.19271
+ATM PGD CHÂU Ổ,"517-519 Phạm Văn Đồng, Thị Trấn Châu Ổ, Huyện Bình Sơn, Tỉnh Quảng Ngãi, Việt Nam",15.29708,108.76076
+ATM CN ĐÔNG ĐĂK LĂK,"22 Quang Trung, Thị Trấn Ea Kar, Huyện Ea Kar, Tỉnh Đăk Lăk, Việt Nam",12.812149,108.45591
+ATM CN MÓNG CÁI,"59 đại lộ Hòa Bình, Phường Trần Phú, Thành phố Móng Cái, Tỉnh Quảng Ninh, Việt Nam",21.527409,107.973175
+ATM PGD GIA VIỄN,"Đường Hồng Dân, phố mới, Thị trấn Me, Huyện Gia Viễn, Tỉnh Ninh Bình, Việt Nam",20.345911,105.83434
+ATM HOA LƯ,"422 Nguyễn Công Trứ, Phường Ninh Sơn, Thành phố Ninh Bình, Tỉnh Ninh Bình, Việt Nam",20.246632,105.985916
+ATM CN HÀ GIANG,"419 Nguyễn Trãi, Thành phố Hà Giang, Tỉnh Hà Giang, Việt Nam",22.82367,104.98353
+ATM PGD THANH THỦY,"khu phố, thị trấn Thanh Thủy, Huyện Thanh Thủy, Tỉnh Phú Thọ, Việt Nam",21.16121,105.260445
+ATM TRUNG TÂM THƯƠNG MẠI VINCOM+PHÚ THỌ,"trung tâm thương mại Vincom+Phú Thọ - 200 Nguyễn Tất Thành, Phường Hùng Vương, Thị xã Phú Thọ, Tỉnh Phú Thọ, Việt Nam",21.40222,105.214005
+ATM PGD DIÊM ĐIỀN,"số 155, Đường Nguyễn Đức Cảnh, tổ dân phố số 6, Thị trấn Diêm Điền, huyện Thái Thụy, tỉnh Thái Bình, Việt Nam",20.560768,106.56733
+ATM CN THỦY NGUYÊN,"số 14 Đường Đà Nẵng (tổ dân phố Đà Nẵng), Thị trấn Núi Đèo, Huyện Thủy Nguyên, Thành Phố Hải Phòng, Việt Nam",20.918686,106.675766
+ATM PGD NINH HẢI,"thôn Đá Bắn, xã Hộ Hải, huyện Ninh Hải, tỉnh Ninh Thuận, Việt Nam",11.619691,108.9948
+ATM PGD NINH PHƯỚC,"kp4, Thị trấn Phước Dân, Huyện Ninh Phước, Tỉnh Ninh Thuận, Việt Nam",11.539648,108.932396
+ATM KCN KIZUNA 1,"kcn Kizuna 1, lô k, kcn Tân Kim, Xã Tân Kim, Huyện Cần Giuộc, Tỉnh Long An, Việt Nam",10.641005,106.65882
+ATM PGD TRẦN ĐỀ,"240 nam sông hậu, Ấp Đầu Giồng, Thị trấn Trần Đề, Tỉnh Sóc Trăng, Việt Nam",9.326681,106.00499
+ATM CÔNG TY MINH HƯNG TIỀN GIANG,"Ấp kinh 2a, Xã Phước Lập, Huyện Tân Phước, Tỉnh Tiền Giang, Việt Nam",10.415156,106.16777
+ATM PGD ĐAK ĐOA,"297- 299 nguyễn huệ, tdp 3, thị trấn Đak Đoa, Huyện Đak Đoa, Tỉnh Gia Lai, Việt Nam",13.995219,108.114586
+ATM CÔNG TY BÒ TRUNG NGUYÊN,"ia puch, Chư Prông, Gia Lai, Việt Nam",13.613922,107.692566
+ATM PGD ĐÔNG ANH,"81-83 tổ 4, Thị trấn Đông anh, Huyện Đông anh, Thành phố Hà Nội, Việt Nam",21.16554,105.776566
+ATM PGD PHAN ĐÌNH PHÙNG,"37 Phan Đình Phùng, Phường Quán Thánh, Quận Ba Đình, Thành phố Hà Nội, Việt Nam",21.04011,105.84345
+ATM PGD CHÂU PHÚ,"366 Quốc Lộ 91, Ấp Bình Chánh, Xã Bình Long, Huyện Châu Phú, Tỉnh An Giang, Việt Nam",10.536276,105.29982
+ATM PGD CHÂU ĐỐC,"163-165 Lê Lợi, Phường Châu Phú B, Tp. Châu Đốc, Tỉnh An Giang, Việt Nam",10.703561,105.13188
+ATM CN NHA TRANG 02,"Tòa Nhà Ariyana Smart Codotel, Số 18 Trần Hưng Đạo, Phường Lộc Thọ,Thành Phố Nha Trang, Tỉnh Khánh Hòa, Việt Nam",12.238743,109.1967
+ATM TRƯỜNG ĐẠI HỌC NGUYỄN TẤT THÀNH,"331 QL1A, Phường An Phú Đông, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",10.86034,106.69838
